@@ -27,13 +27,9 @@ The objective of this assignment is to evaluate real-world **Offline-First** thi
 
 ### 🎬 Demo Video
 <p align="center">
-  <video src="readme_video/demo.mp4" width="100%" controls>
-    Your browser does not support the video tag.
+  <video src="https://github.com/KushalVadhar/-OfflineFirst-Flutter-App/blob/main/readme_video/demo.mp4?raw=true" width="100%" controls>
   </video>
 </p>
-<br />
-> [!TIP]
-> **To see the video on GitHub**: Save your recorded screen as `demo.mp4` into the `readme_video/` folder, then push it to your repository.
 
 ### 📱 Screenshots Gallery
 <p align="center">
