@@ -26,10 +26,8 @@ The objective of this assignment is to evaluate real-world **Offline-First** thi
 ## 🖼 Visual Evidence
 
 ### 🎬 Demo Video
-<p align="center">
-  <video src="https://github.com/KushalVadhar/-OfflineFirst-Flutter-App/blob/main/readme_video/demo.mp4?raw=true" width="100%" controls>
-  </video>
-</p>
+
+https://github.com/KushalVadhar/-OfflineFirst-Flutter-App/raw/main/readme_video/demo.mp4
 
 ### 📱 Screenshots Gallery
 <p align="center">
