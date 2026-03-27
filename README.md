@@ -26,9 +26,14 @@ The objective of this assignment is to evaluate real-world **Offline-First** thi
 ## 🖼 Visual Evidence
 
 ### 🎬 Demo Video
-> [!IMPORTANT]
-> **[WATCH THE DEMO VIDEO HERE]([Add your link here])**
-> *This video demonstrates offline-writing, automatic sync on reconnection, and the infinite scroll behavior.*
+<p align="center">
+  <video src="readme_video/demo.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+<br />
+> [!TIP]
+> **To see the video on GitHub**: Save your recorded screen as `demo.mp4` into the `readme_video/` folder, then push it to your repository.
 
 ### 📱 Screenshots Gallery
 <p align="center">
