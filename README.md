@@ -33,14 +33,18 @@ The objective of this assignment is to evaluate real-world **Offline-First** thi
 ### 📱 Screenshots Gallery
 <p align="center">
   <img src="readme/home.png" width="30%" alt="Home Feed" />
+  <img src="readme/explore.png" width="30%" alt="Infinite Explore" />
   <img src="readme/detail.png" width="30%" alt="Article Detail" />
-  <img src="readme/journal.png" width="30%" alt="Insight Box" />
 </p>
 <br />
 <p align="center">
-  <img src="readme/explore.png" width="30%" alt="Infinite Explore" />
+  <img src="readme/journal.png" width="30%" alt="Insight Box" />
   <img src="readme/bookmarks.png" width="30%" alt="Bookmarks" />
-  <img src="readme/offline.png" width="30%" alt="Offline Mode" />
+  <img src="readme/profile.png" width="30%" alt="User Profile" />
+</p>
+<br />
+<p align="center">
+  <img src="readme/offline.png" width="45%" alt="Offline Feedback" />
 </p>
 
 ---
